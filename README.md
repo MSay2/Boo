@@ -15,7 +15,7 @@ READ BEFORE CREATING A NEW BUG REPORT!
 
 Take the time to check the problems you encountered with Boo.
 
-Bug reports will be ignored if they do not include the following information: Device name, version numberof Boo, and Android version name (including ROM Custom).
+Bug reports will be ignored if they do not include the following information: Device name, version number of Boo, and Android version name (including ROM Custom).
 
 This is the second official repository of Boo, your can report your bug reports in the problems section.
 
