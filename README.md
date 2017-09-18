@@ -8,7 +8,10 @@ Welcome to Boo, an application grouping all kinds of wallpapers with a simple, e
 ### Screenshots
 <img src="screenshots/screen_01.png" width="25%">
 <img src="screenshots/screen_02.png" width="25%">
+<img src="screenshots/screen_03.png" width="25%">
 
+### Translation
+For translate the application [Translate Boo](https://meclotyoann.oneskyapp.com/admin/project/dashboard/project/126985)
 
 # More
 READ BEFORE CREATING A NEW BUG REPORT!
